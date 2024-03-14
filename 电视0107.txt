@@ -496,7 +496,7 @@ CCTV风云音乐,http://111.225.115.62:808/tsfile/live/1036_1.m3u8?key=txiptv&pl
 
 虎牙,#genre#
 星爷经典不间断, http://jd.xiaodan01.xyz:35455/huya/11342412
-铁齿铜ya纪晓岚, http://jd.xiaodan01.xyz:35455/huya/11342396
+铁齿铜ya纪晓岚, http://192.168.1.8:35455/huya/11342396
 沈腾~华仔~古校长~徐峥~经典不间断, http://jd.xiaodan01.xyz:35455/huya/138531
 范闲书写人生传奇, http://jd.xiaodan01.xyz:35455/huya/11352960
 《云南虫谷》奔跑吧，胡八一!, http://jd.xiaodan01.xyz:35455/huya/11352898
