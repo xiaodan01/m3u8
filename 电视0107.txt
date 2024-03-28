@@ -501,3 +501,5 @@ CCTV风云音乐,http://121.19.134.48:808/tsfile/live/1036_1.m3u8?key=txiptv&pla
 死神来了系列, http://192.168.1.8:35455/huya/11352903
 吐槽大会, http://jd.xiaodan01.xyz:35455/huya/21059555
 吐槽大会, http://192.168.1.8:35455/huya/21059555
+七龙珠,http://192.168.1.8:35455/huya/11601966
+七龙珠,http://jd.xiaodan01.xyz:35455/huya/11601966
